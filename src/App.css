@@ -1,6 +1,18 @@
 .App {
   text-align: center;
+  background-color :rgb(201, 215, 240);
+height:  550px;
+/* width : */
 }
+h1 h3{
+  background-color :rgb(219, 228, 243);
+
+color: rgb(80, 77, 77);
+;}
+/* .inputCheckpoint:checked {
+  background-color: green; /* Change to your desired background color 
+} */
+
 
 .App-logo {
   height: 40vmin;
@@ -14,7 +26,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color :rgb(51, 206, 51);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
